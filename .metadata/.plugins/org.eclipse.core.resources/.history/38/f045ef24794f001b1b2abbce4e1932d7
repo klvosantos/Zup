@@ -1,0 +1,5 @@
+package com.zup.account.repositories;
+
+public class UserRepository {
+
+}

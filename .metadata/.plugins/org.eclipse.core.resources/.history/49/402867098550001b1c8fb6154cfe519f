@@ -1,0 +1,5 @@
+package com.zup.account.resources.exceptions;
+
+public class FieldMessage {
+
+}

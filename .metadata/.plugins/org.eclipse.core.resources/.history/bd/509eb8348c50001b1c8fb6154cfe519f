@@ -1,0 +1,5 @@
+package com.zup.account.services.validation;
+
+public class UserInsertValidator {
+
+}

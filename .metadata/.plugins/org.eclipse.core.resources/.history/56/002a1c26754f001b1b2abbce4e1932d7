@@ -1,0 +1,5 @@
+package com.zup.account.config;
+
+public class SecurityConfig {
+
+}
